@@ -1,5 +1,5 @@
-body{
-  padding: 2rem 5rem;
+.body{
+  padding: 0rem 5rem;
 }
 
 .col{
@@ -7,8 +7,33 @@ body{
   gap: 1rem;
 }
 
+.Header{
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+}
+
+.Header *{
+  flex: 1 1;
+}
+
+.logo{
+  color: red;
+  font-size: 2rem;
+}
+
+.icon{
+  text-align: right;
+  font-size: 1.5rem;
+}
+
+.icon *{
+  margin: 0 .5rem;
+  cursor: pointer;
+}
+
 .main-video{
-  margin-bottom: 3rem;
+  margin-bottom: 1rem;
 }
 
 .video{
@@ -19,3 +44,24 @@ body{
 .suggestion{
   margin-bottom: 1rem;
 }
+
+.search-input{
+  width:100%;
+  padding: .5rem;
+}
+
+.search{
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.search-icon{
+  position: absolute;
+  right: 0;
+  font-size: 1.5rem;
+  background-color: lightslategrey;
+  padding: .3rem 1rem;
+  cursor: pointer;
+}
+

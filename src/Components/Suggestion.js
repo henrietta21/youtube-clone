@@ -21,6 +21,44 @@ function Suggestion() {
           title: `Rethinking Design Practices — Mark Dalgleish`,
           view:"20M"
         },
+        {
+            src: `https://www.youtube.com/embed/ufPCITfUQnQ?list=PLMY9nrA_sDPrVDt46wA15QuAIoAcfBI-N`,
+            title: `CSS-in-JS — Max Stoiber`,
+            view:"20M"
+          },
+          {
+            src: `https://www.youtube.com/embed/v1JAUiqskiw?list=PLMY9nrA_sDPrVDt46wA15QuAIoAcfBI-N`,
+            title: `Modern Forms in React — Erik Rasmussen`,
+          },
+          {
+            src: `https://www.youtube.com/embed/N0wHweOu-LQ?list=PLMY9nrA_sDPrVDt46wA15QuAIoAcfBI-N`,
+            title: `Engineering led design — Lauren Argenta`,
+            view:"20M"
+          },
+          {
+            src: `https://www.youtube.com/embed/xxbc3wAztl0?list=PLMY9nrA_sDPrVDt46wA15QuAIoAcfBI-N`,
+            title: `Rethinking Design Practices — Mark Dalgleish`,
+            view:"20M"
+          },
+          {
+            src: `https://www.youtube.com/embed/ufPCITfUQnQ?list=PLMY9nrA_sDPrVDt46wA15QuAIoAcfBI-N`,
+            title: `CSS-in-JS — Max Stoiber`,
+            view:"20M"
+          },
+          {
+            src: `https://www.youtube.com/embed/v1JAUiqskiw?list=PLMY9nrA_sDPrVDt46wA15QuAIoAcfBI-N`,
+            title: `Modern Forms in React — Erik Rasmussen`,
+          },
+          {
+            src: `https://www.youtube.com/embed/N0wHweOu-LQ?list=PLMY9nrA_sDPrVDt46wA15QuAIoAcfBI-N`,
+            title: `Engineering led design — Lauren Argenta`,
+            view:"20M"
+          },
+          {
+            src: `https://www.youtube.com/embed/xxbc3wAztl0?list=PLMY9nrA_sDPrVDt46wA15QuAIoAcfBI-N`,
+            title: `Rethinking Design Practices — Mark Dalgleish`,
+            view:"20M"
+          },
       ];
 
     return (
